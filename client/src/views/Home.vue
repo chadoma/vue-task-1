@@ -1,14 +1,25 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-  </div>
+    <div id="home">
+        <v-app-bar
+            color="rgba(100, 130, 183, 0.6)"
+            dark
+            flat
+        >
+            <NavItems/>
+        </v-app-bar>
+<HeroItems/>
+    </div>
 </template>
 
 <script>
-// @ is an alias to /src
-
+import HeroItems from '@/components/HeroItems'
+import NavItems from '@/components/NavItems'
 export default {
-  name: 'Home',
-
-}
+    name: 'Home',
+    components:{
+        NavItems,
+        HeroItems
+    }
+};
 </script>
+
