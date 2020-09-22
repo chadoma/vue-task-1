@@ -24,6 +24,7 @@
       <change afterPath="$PROJECT_DIR$/client/src/assets/solen-feyissa-jGmBZypoFPc-unsplash.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/components/NavItems.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
@@ -82,7 +83,7 @@
       <updated>1600722425730</updated>
       <workItem from="1600722427546" duration="3285000" />
       <workItem from="1600751026420" duration="11426000" />
-      <workItem from="1600768986179" duration="5258000" />
+      <workItem from="1600768986179" duration="5621000" />
     </task>
     <servers />
   </component>
